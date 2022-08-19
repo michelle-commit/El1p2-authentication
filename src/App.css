@@ -1,0 +1,51 @@
+body{
+  background-color: #ddd;
+  color: black;
+}
+
+.Mynavbar{
+  background-color: rgb(231, 105, 105);
+  color: white; 
+  width: 35vw;
+  height: 45vh;
+  margin-top: 12%; 
+  margin-left: 30%; 
+  border-radius: 15px;
+  
+    
+}
+label{
+  margin: 5%;
+  font-size: 16px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+input{
+  width: 35%;
+  height: 5%;
+  margin: 1%;
+  border-radius: 3px;
+  border: none;
+  
+}
+.welcome{
+  padding-top: 5%;
+  padding-left: 35%;
+  font-size: 25px;
+ 
+}
+
+.bout{
+  border-radius: 5px;
+  border: #ddd;
+  margin-right: 5%;
+  margin-left: 5%;
+  margin-bottom: 5%;
+  height: 5vh;
+  background-color: rgb(15, 151, 241);
+  color: white;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 16px; 
+}
+
+
